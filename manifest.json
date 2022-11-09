@@ -1,9 +1,9 @@
 {
   "name": "Shubham Kumar",
-  "short_name": "ShubhamKumar",
-  "start_url": "index.html",
+  "short_name": "Shubham Kumar",
+  "start_url": "",
   "display": "standalone",
-  "background_color": "#fdfdfd",
+  "background_color": "#2a0474",
   "theme_color": "#2a0474",
   "orientation": "portrait-primary",
   "icons": [
